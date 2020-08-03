@@ -1,6 +1,6 @@
 # Title: CesarCamacho/hosts
 #
-# Lista de blokeo personal
+# Lista de blokeo personal -YOUTUBE
 # gran aporte de StevenBlack
 #
 # ===============================================================
@@ -29,6 +29,8 @@ ff02::3 ip6-allhosts
 #=====================================
 # Hosts contributed by Cesar Camacho
 # http://ipcomsistemas.co
+#
+#
 0.0.0.0 r1---sn--cxaaj5o5q5-tt16.googlevideo.com
 0.0.0.0	r2---sn--cxaaj5o5q5-tt16.googlevideo.com
 0.0.0.0	r3---sn--cxaaj5o5q5-tt16.googlevideo.com
@@ -23014,8 +23016,7 @@ ff02::3 ip6-allhosts
 # El contenido de este archivo (que contiene una lista de dominios adicionales en
 # formato de archivo 'hosts') se agregan al archivo de hosts unificados durante el
 # proceso de actualización. Por ejemplo, descomente la siguiente línea para bloquear
-# 'example.com':
-
-# 0.0.0.0 example.com
- 
+#
+#
+#
 # todos los creditos a StevenBlack/hosts
